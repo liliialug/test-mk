@@ -1,1 +1,5 @@
-Master class "Writing the first autotests", NodeJS and Cypress
+node.js, cypress.io - устанавливать лучше в каждый проект отдельно
+npx cypress open -> e2e -> ok -> chrome
+//fixtures - хранение тестовых данных (напр. логины/пароли и др.)
+//e2e - тесты, расширение .cy.js
+//cmd+выделить функцию - откроется документация с описанием
